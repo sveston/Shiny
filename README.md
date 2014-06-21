@@ -1,7 +1,5 @@
-Shiny
-=====
-
 Compound Interest Formula
+=====
 
 A = P(1+r)^t
  
