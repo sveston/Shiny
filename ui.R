@@ -18,7 +18,7 @@ shinyUI(pageWithSidebar(
     submitButton('Submit')
   ),
   
-  # Show a plot of the generated distribution
+  # Show the output
   mainPanel(
     h3('You should get'),
     verbatimTextOutput("compound"),
